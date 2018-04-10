@@ -1,0 +1,13 @@
+En esta práctica aprendemos a familiarizarnos con el 
+código ensamblador (GAS) en la terminal para poder 
+compilar nuestros programas.
+
+Este código creamos dos secciones de código en archivos
+independientes que después combinaremos con el linker
+y así crear un archivo único de salida.
+
+Escribimos 3 constantes en cada sección. Y como son dos achivos 
+tendremos en total 12 constantes. Ahora tenemos un archivo de enlace
+que nos ayudará a combinar nuestros 2 archivos. Este enlazador mapea 
+las secciones de entrada y las combina con los archivos objeto y así
+darnos un archivo de salida. 
