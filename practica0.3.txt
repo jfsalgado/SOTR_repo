@@ -1,0 +1,7 @@
+En esta práctica se escribe un programa en lenguaje 
+ensamblador para encontrarel número máximo dentro de 
+un conjunto de números. 
+Se inicia con el programa ejemplo donde encontramos el 
+número máximo del conjunto. Ahora modificamos el código
+para encontrar el mínimo. Esto se logra modificando unas 
+líneas de código y reacomodando algunas directivas.
