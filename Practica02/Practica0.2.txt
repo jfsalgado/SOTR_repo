@@ -1,0 +1,5 @@
+En esta páctica continuamos con el aprendizaje de ecribir y construir
+programas. En específico con esta práctica se muestra como salir 
+de un programa. 
+Más a detalle vemos las diferentes funciones que utilizamos para
+ejecutar este programa correctamente y ver como funciona el kernel de linux.
