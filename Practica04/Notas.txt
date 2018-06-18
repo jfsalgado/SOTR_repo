@@ -1,0 +1,330 @@
+    1  pwd
+    2  whoami
+    3  who
+    4  ls -l
+    5  ls -l..
+    6  vim
+    7  host
+    8  host www.ipn.mx
+    9  vim
+   10  cat hola.c
+   11  gcc
+   12  gcc hola.c
+   13  ls -lh
+   14  file
+   15  file hola.c 
+   16  file a.out
+   17  ./a.out
+   18  vim hola.c
+   19  gcc hola.c
+   20  ./a.out
+   21  vim hola.c
+   22  gcc hola.c
+   23  ./a.out
+   24  script 130218.txt
+   25  ./a.out
+   26  history>ajkldalsdkj.txt
+   27  pwd
+   28  whoami
+   29  who
+   30  ls -l
+   31  vim
+   32  cat hola.c
+   33  gcc hola.c 
+   34  ./a.out
+   35  history>notas1.txt
+   36  cd Desktop/
+   37  cd SOTR/
+   38  gcc hola.c
+   39  vim
+   40  vim hola.c
+   41  restart -h now
+   42  restar -h now
+   43  shutdown -h now
+   44  vim
+   45  cat
+   46  cd Desktop/
+   47  cd SOTR/
+   48  history>notashoy.txt
+   49  apt -get install tree
+   50  apt get install tree
+   51  apt -get tree
+   52  apt get tree
+   53  help get
+   54  cd
+   55  apt get tree
+   56  apt get install tree
+   57  apt-get instal tree
+   58  apt-get install tree
+   59  apt-get update
+   60  vim
+   61  gcc holasprintf.c
+   62  vim holasprintf.c 
+   63  gcc holasprintf.c
+   64  ./holasp
+   65  ./a.out
+   66  echo $?
+   67  gcc holasprintf.c ansans
+   68  gcc holasprintf.c>hola
+   69  ./hola
+   70  gcc holasprintf.c -o holasp
+   71  ./holasp
+   72  d
+   73  history>notas2.txt
+   74  cd Desktop/SOTR/
+   75  make holasprintf
+   76  file holasprintf
+   77  ./holasprintf 
+   78  echo $
+   79  vim funcion.v
+   80  vim funcion.c
+   81  gcc .c funcion.c 
+   82  gcc -c funcion.c 
+   83  vim funcion.c 
+   84  vim Makefile
+   85  vim funcion.c 
+   86  gcc -c funcion.c 
+   87  make
+   88  vim Makefile 
+   89  make
+   90  ./executable
+   91  wfpiehgf
+   92  history>notas2.txt
+   93  cd Desktop/SOTR/
+   94  vim modulos.c
+   95  vim hola.c
+   96  gcc -c modulos.c 
+   97  ls
+   98  gcc -c hola.c
+   99  vim hola
+  100  vim hola.c
+  101  gcc hola.o modulos.o -o holamodulos
+  102  ls
+  103  ./holamodulos
+  104  vim hola.c
+  105  gvim hola.c &
+  106  history>notas160218.txt
+  107  rm -v *.o
+  108  gcc -c *.c /*Compila todos los archivos c*/
+  109  gcc -c *.c
+  110  ls
+  111  gvim hola.c &
+  112  vim modulos.c 
+  113  gcc hola.o modulos.o -o holamodulos
+  114  ./holamodulos
+  115  vim hola
+  116  vim hola.c
+  117  gcc -c *.c #Compila todos los archivos
+  118  history>notas160218.txt
+  119  vim hola.c
+  120  cd Desktop/SOTR/
+  121  vim hola.c
+  122  vim
+  123  vim hola.c
+  124  cd Dow
+  125  ls
+  126  cd Downloads/
+  127  ls
+  128  cd LibreOffice_6.0.1.1_Linux_x86-64_deb/
+  129  ls
+  130  cd DEBS/
+  131  sudo dpkg -i *.deb
+  132  cd Desktop/SOTR/
+  133  ls
+  134  cd Notas-Tarea/
+  135  vim a1.s
+  136  ls
+  137  objdump -D a1.o
+  138  vim a2.s
+  139  as --32 a2.s -o a2.o
+  140  ls
+  141  vim test.lds
+  142  vim Makefile
+  143  make
+  144  vim Makefile
+  145  make
+  146  vim Makefile 
+  147  apt-get update
+  148  cd Desktop/SOTR/
+  149  makedir Practica3
+  150  make dir Practica3
+  151  mkdir Practica3
+  152  cd Practica3/
+  153  vim maximum.s
+  154  as --32 maximum.s -o maximum.o
+  155  vim maximum.s 
+  156  as --32 maximum.s -o maximum.o
+  157  vim maximum.s 
+  158  as --32 maximum.s -o maximum.o
+  159  vim maximum.s 
+  160  as --32 maximum.s -o maximum.o
+  161  ld -m elf_i386 maximum.o -o maximum
+  162  ./maximum
+  163  echo$?
+  164  echo $?
+  165  vim maximum.s 
+  166  ./maximum
+  167  echo $?
+  168  echo$?
+  169  echo $?
+  170  echowueywsdf
+  171  echo $?
+  172  .section .data
+  173  vim exit.s
+  174  cd ..
+  175  cd Practica2
+  176  vim exit.s
+  177  as --32 exit.s -o exit.o
+  178  ld -m elf_i386 exit.o -o exit
+  179  ./exit
+  180  echo $?
+  181  vim exit.s
+  182  cd ..
+  183  cd Practica1
+  184  cd hola
+  185  vim a1.s
+  186  vim a2.s
+  187  as --32 a1.s -o a1.o
+  188  as --32 a2.s -o a2.o
+  189  objdump -D a1.o
+  190  objdump -D a2.o
+  191  vim test.lds
+  192  ld -m elfi368 a1.o a2.o -o a.out -T test.lds
+  193  ld -m elf_i368 a1.o a2.o -o a.out -T test.lds
+  194  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  195  vim test.lds
+  196  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  197  vim test.lds
+  198  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  199  vim test.lds
+  200  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  201  vim test.lds
+  202  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  203  objdump -D a.o
+  204  objdump -D a.out
+  205  objcopy -j abc -j def -O binary a.out a.bin
+  206  od -t x 1 a.bin
+  207  od -t x1 a.bin
+  208  cd Desktop/SOTR/Practica1
+  209  objcopy -j def -j abc -O binary a.out a.bin
+  210  od -t x1 a.bin
+  211  objcopy -j abc -j def -O binary a.out a.bin
+  212  od -t x1 a.bin
+  213  ld -m elf_i386 a2.o a1.o -o a.out -T test.lds
+  214  objcopy -j abc -j def -O binary a.out a.bin
+  215  od -t x1 a.bin
+  216  apt-get install libc6-dev-i386
+  217  apt-get update
+  218  apt-get install libc6-dev-i386 --fix-missing
+  219  clear
+  220  objcopy -j abc -j def -O binary a.out a.bin
+  221  od -t x1 a.bin
+  222  objcopy -j def -j abc -O binary a.out a.bin
+  223  od -t x1 a.bin
+  224  ld -m elf_i386 a2.o a1.o -o a.out -T test.lds
+  225  objcopy -j abc -j def -O binary a.out a.bin
+  226  od -t x1 a.bin
+  227  history>whyme
+  228  history>whyme.txt
+  229  vim test.lds
+  230  as  --32 a1.s -o a1.o
+  231  ld a2.o a1.o -o a.out -T test.lds
+  232  ld -m elf_i386 a2.o a1.o -o a.out -T test.lds
+  233  objdump -D a.out
+  234  vim a2.s 
+  235  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  236  objdump -D a.out
+  237  as -32 a1.s -o a1.o
+  238  objdump -D a1.o
+  239  as -32 a2.s -o a2.o
+  240  objdump -D a2.o
+  241  ld -m elf_i386 a1.o a2.o -o a.out -T test.lds
+  242  objdump -D a.out
+  243  objcopy -j abc -j def -O binary a.out a.bin
+  244  od -t x1 a.bin
+  245  clear
+  246  vim a1.s #Codigo en ensamblador
+  247  #Se observo blakasjfasjaskj
+  248  history>reporte.txt
+  249  vim reporte.txt 
+  250  a1.s #Codigo en ensamblador del primer programa
+  251  vim a1.s #Codigo en ensamblador del primer programa
+  252  sudo apt-get upgrade
+  253  cd Desktop/SOTR/Practica1
+  254  vim a1.s
+  255  vim a1.s #Codigo en ensamblador del primer programa
+  256  cd Desktop/SOTR/Practica1
+  257  apt-get gcc-multilib
+  258  apt-get install gcc-multilib
+  259  apt-get update gcc-multilib
+  260  clear
+  261  cd ..
+  262  mkdir Practica0.1
+  263  cd Practica0.1/
+  264  cd ..
+  265  cd Practica0.2
+  266  mkdir Practica0.2
+  267  cd Practica0.2
+  268  vim hello.s
+  269  im Makefile
+  270  vim Makefile
+  271  make
+  272  vim Makefile
+  273  make
+  274  ./hello2
+  275  vim Makefile
+  276  cd ..
+  277  mkdir macros
+  278  cd macros/
+  279  vim test_fopen.s
+  280  vim include.asm
+  281  ld
+  282  ls
+  283  as test_fopen.s -o test_fopen.o
+  284  vim test_fopen.s
+  285  as --32  test_fopen.s -o test_fopen.o
+  286  gcc -m32 test_fopen.o -o test_fopen
+  287  ls -hgo
+  288  ./test_fopen
+  289  echo >dummy.dummy << "EOF"
+  290  Primera linea
+  291  Segunda linea
+  292  EOF
+  293  cat dummy.dummy
+  294  cat >dummy.dummy << "EOF"
+  295  Primera linea
+  296  Segunda linea
+  297  EOF
+  298  cat dummy.dummy
+  299  ./test_fopen
+  300  vim fuente.c
+  301  gcc -c fuente.c
+  302  ls -hgo
+  303  objdump -h fuente.o
+  304  objdump -D fuente.o
+  305  split
+  306  vsp
+  307  gcc -c -E fuente.c
+  308  vim fuente.c
+  309  gcc -c -E fuente.c
+  310  vim test_fopen.s
+  311  ls
+  312  vim include.asm 
+  313  vim cirkel.dat
+  314  vim sat_color.s
+  315  vim ncurses.asm
+  316  as sat_color.s -o sat_color.o
+  317  gcc sat_color.s -o sat_color.o
+  318  gcc -m32 sat_color.s -o sat_color.o
+  319  cd
+  320  cd home
+  321  cd jan
+  322  ls
+  323  cd Desktop/SOTR/
+  324  mkdir tetris
+  325  cd tetris/
+  326  vim Makefile
+  327  cd Desktop/SOTR/Practica4
+  328  ls
+  329  vim maximum.s
+  330  history >askfojasd.txt
